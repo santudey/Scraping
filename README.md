@@ -1,4 +1,4 @@
-# Scraping
+# Daily life task automated
 
 This repo will help you to do a lot of daily life task automated
 
