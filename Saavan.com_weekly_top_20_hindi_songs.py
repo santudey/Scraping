@@ -3,6 +3,9 @@ import os
 import requests
 from bs4 import BeautifulSoup
 
+# This script need Youtube-dl library to download songs use "PIP install Youtube-dl"
+# If you need any help please mail at "San2.yed@gmail.com"
+
 user_agents = [  
     'Mozilla/5.0 (Windows; U; Windows NT 5.1; it; rv:1.8.1.11) Gecko/20071127 Firefox/2.0.0.11',
     'Opera/9.25 (Windows NT 5.1; U; en)',
